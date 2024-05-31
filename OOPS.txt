@@ -1,0 +1,28 @@
+OOPS
+
+Class and objects
+Polymorphism
+inheritance
+
+
+extends--->one class to another
+
+base---->derived
+
+class a----a
+class b extends a----a and b
+
+
+
+class a----a
+class b extends a----a and b
+class c extends b----c and b
+
+5 types
+
+single
+multiple---X  interface
+multilevel
+hierarchial
+hybrid
+

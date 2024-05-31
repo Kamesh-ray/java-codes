@@ -1,0 +1,9 @@
+SQL Notes:
+
+SQL - structured query language.
+its a database 
+its stored in table structure
+collection of data
+data = collectio of info
+information = collection of particular thing
+collection of frozen columns infor
